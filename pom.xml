@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>io.kall.randomfileutil</groupId>
 	<artifactId>randomfileutil</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>Random File Util</name>
 	<description>App for randomly opening a file and performing file modifications afterwards.</description>
 	<dependencies>
