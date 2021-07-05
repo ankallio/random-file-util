@@ -1,5 +1,6 @@
 # random-file-util
-Desktop and command line app for randomly opening files
+
+Desktop and command line app for randomly opening files. It is intended for opening random media files. The files are opened with default associated applications, as if you opened them from any file explorer.
 
 ## Desktop mode
 
@@ -30,3 +31,9 @@ Options:
   S: Set filename search term
 Select action [R]: 
 ```
+
+## Ignored files
+
+The random file selector ignores some files
+ * by extension: .jar, .db, .exe, .bat, .cmd, .ini, .lnk, empty
+ * by filename: folder.jpg
